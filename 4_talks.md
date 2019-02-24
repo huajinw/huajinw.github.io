@@ -4,7 +4,7 @@ title: Invited Talks
 permalink: /talks/
 ---
 
-
+<br>
 **Building Community and Support for Open Science at Carnegie Mellon University** \\
 National Institute of Health, Bethesda, MD (2018)
 
