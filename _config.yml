@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -13,7 +14,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: HUAJIN'S BASECAMP
+title: Huajin Wang, PhD
 email: huajinw[at]cmu[dot]edu
 description: >- # this means to ignore newlines until "baseurl:"
   Cell biologist | Research librarian | Coder | Rock climber
@@ -39,3 +40,8 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+=======
+
+markdown: kramdown
+theme: jekyll-theme-minimal
+>>>>>>> d36a1ba716c8478fbf75866771c250784518a582
