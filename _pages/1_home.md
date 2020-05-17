@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: default
 title: Home
-permalink: /home/
+permalink: /
 ---
 
 <!-- This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
@@ -24,7 +24,7 @@ You can find the source code for Jekyll at GitHub:
 
 <br>
 
-## Huajin Wang, PhD
+# Huajin Wang, PhD
 Research Liaison, Biology and Computer Science\\
 University Libraries\\
 Carnegie Mellon University
