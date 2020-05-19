@@ -2,18 +2,22 @@
 layout: about
 permalink: /
 title: <strong>Huajin</strong> Wang
-description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: Liaison Librarian, Biology and Computer Science <br> Program Director, Open Science & Data Collaborations
 
 profile:
   align: right
   image: HuajinWang.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>University Libraries</p>
+    <p>Carnegie Mellon University</p>
+    <p>Pittsburgh, PA 15213</p>
 
 news: true
 social: true
 ---
 
-I am a cell biologist by training, with more than 10 years of research experience in molecular and cellular biology, lipid metabolism, bioinformatics, and computational analysis of large biomedical datasets. I have deep understanding of research data. During my PhD studies at University of Alberta and postdoctoral research at Yale/Harvard,  I have collaborated with biologists, clinicians, and data scientists on many successful research projects. As a liaison librarian, I am passionate about helping the research community with their data needs, facilitating scientific data reuse and reproducibility, and educating the next generation of biomedical scientists. My current research focus is to engage various stake holders to build incentives and infrastructure for scientific rigor and data sharing, as well as developing data-driven approaches for academic services.
+I am a Research Liaison at <a href="https://www.library.cmu.edu"> Carnegie Mellon University Libraries</a> and Program Director for <a href="https://www.library.cmu.edu/datapub/open-science">Open Science & Data Collaborations</a>. I am passionate about helping the research community with data needs, fostering collaboration across disciplinary boundaries, facilitating scientific data reuse and reproducibility, and engaging various stake holders to build a healthy data ecosystem. My current research focus is to build tools, infrastructure and incentives for scientific rigor and data sharing, and to develop data-driven approaches for academic services.
+
+Before joining the libraries, I completed my PhD in Cell Biology at University of Alberta, postdoctoral research at Yale/Harvard, and independent research at Carnegie Mellon University. I have collaborated with biologists, clinicians, and data scientists on many successful research projects in areas spanning membrane trafficking, lipid metabolism, bioinformatics, and computational analysis of large biomedical datasets.
+
+I am Chinese by blood, Canadian by heart, and live in Pittsburgh, PA.
