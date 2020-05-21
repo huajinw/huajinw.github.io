@@ -5,7 +5,11 @@ permalink: /talks/
 ---
 
 ### Selected Conference Presentations
+**Data Discovery and Reuse: AI Solutions & the Human Factor** (Invited talk)\\
+National Information Standards Organization (NISO) Plus Conference 2020, Baltimore, MD, February 23 – 25, 2020 https://doi.org/10.1184/R1/11900334
 
+**AI for Data Reuse - Tools, Challenges, and Opportunities** (Invited talk)\\
+Reproducibility and Data Reuse in Life Science, SciLifeLab Data Centre, Uppsala, Sweden, September 19, 2019 https://doi.org/10.1184/R1/9199784
 **Building Community and Support for Open Science at Carnegie Mellon University** \\
 Coalition for Networked Information (CNI) Fall 2018 Membership Meeting, Washington DC, November 10 –11, 2018 https://doi.org/10.1184/R1/7455197.v1
 
@@ -13,12 +17,7 @@ Coalition for Networked Information (CNI) Fall 2018 Membership Meeting, Washingt
 Research Data Access & Preservation Summit (RDAP), Chicago, IL, March 21 –23, 2018
 
 
-### Invited Talks
-**Data Discovery and Reuse: AI Solutions & the Human Factor** \\
-National Information Standards Organization (NISO) Plus Conference 2020, Baltimore, MD, February 23 – 25, 2020 https://doi.org/10.1184/R1/11900334
-
-**AI for Data Reuse - Tools, Challenges, and Opportunities** \\
-Reproducibility and Data Reuse in Life Science, SciLifeLab Data Centre, Uppsala, Sweden, September 19, 2019 https://doi.org/10.1184/R1/9199784
+### Other Talks
 
 **Building Community and Support for Open Science at Carnegie Mellon University** \\
 National Institute of Health, Bethesda, MD (2018)
