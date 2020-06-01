@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Project 2
-description: a project with a background image
-img: /assets/img/2.jpg
+title: AIDR Conferences
+description: Artificial Intelligence for Data Discovery and Reuse
+img: /assets/img/AIDR_new_logo.jpeg
+redirect: https://events.library.cmu.edu/aidr2019/
 ---
 
 Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.

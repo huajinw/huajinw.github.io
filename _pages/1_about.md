@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <strong>Huajin</strong> Wang
-description: Liaison Librarian, Biology and Computer Science <br> Program Director, Open Science & Data Collaborations
+description: Cell biologist | Research librarian | Coder | Rock climber # Liaison Librarian, Biology and Computer Science <br> Program Director, Open Science & Data Collaborations
 
 profile:
   align: right
