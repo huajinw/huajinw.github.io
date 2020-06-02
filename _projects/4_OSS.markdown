@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Open Science Symposium
-description: An annual symposium on cool projects in open science in life sciences.
+description: An annual symposium on cool open science projects in life sciences.
 img: /assets/img/OpenScience_Logo_Red.png
 redirect: https://events.library.cmu.edu/oss2019/
 ---

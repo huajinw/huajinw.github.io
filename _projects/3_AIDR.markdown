@@ -1,7 +1,7 @@
 ---
 layout: page
 title: AIDR Conferences
-description: Artificial Intelligence for Data Discovery and Reuse
+description: Artificial Intelligence for Data Discovery and Reuse.
 img: /assets/img/AIDR_new_logo.jpeg
 redirect: https://events.library.cmu.edu/aidr2019/
 ---
