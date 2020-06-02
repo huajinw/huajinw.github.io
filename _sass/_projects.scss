@@ -6,6 +6,8 @@
     vertical-align: middle;
     width: 33.33%;
 
+
+
     .thumbnail {
         overflow: hidden;
         height: 200px;
@@ -26,7 +28,6 @@
             width: 100%;
 
             span {
-                display: none;
                 position: absolute;
                 top: 0;
                 left: 0;
@@ -34,7 +35,7 @@
                 right: 0;
                 background: rgba(0,0,0,0.4);
                 color: $grey-color-light;
-                padding: 40px;
+                padding: 25px;
                 text-align: center;
 
                 h1 {
