@@ -5,14 +5,21 @@ permalink: /talks/
 ---
 
 ### Selected Conference Presentations
+
+**An End-to-end Open Science and Data Collaborations Program**\\
+Coalition for Networked Information (CNI) Fall 2021 Membership Meeting. Virtual Meeting, December 7-9, 2021 [https://doi.org/10.1184/R1/17155721](https://doi.org/10.1184/R1/17155721)
+
+**The rising importance of open science and open data** (Invited Keynote)\\
+Mid-Atlatic Chapter of the Medical Library Association Annual Meeting 2021. Virtual Meeting, October 25-27, 2021 [https://doi.org/10.1184/R1/16874464](https://doi.org/10.1184/R1/16874464)
+
 **Data Discovery and Reuse: AI Solutions & the Human Factor** (Invited talk)\\
-National Information Standards Organization (NISO) Plus Conference 2020, Baltimore, MD, February 23 – 25, 2020 https://doi.org/10.1184/R1/11900334
+National Information Standards Organization (NISO) Plus Conference 2020, Baltimore, MD, February 23 – 25, 2020 [https://doi.org/10.1184/R1/11900334](https://doi.org/10.1184/R1/11900334)
 
 **AI for Data Reuse - Tools, Challenges, and Opportunities** (Invited talk)\\
-Reproducibility and Data Reuse in Life Science, SciLifeLab Data Centre, Uppsala, Sweden, September 19, 2019 https://doi.org/10.1184/R1/9199784
+Reproducibility and Data Reuse in Life Science, SciLifeLab Data Centre, Uppsala, Sweden, September 19, 2019 [https://doi.org/10.1184/R1/9199784](https://doi.org/10.1184/R1/9199784)
 
 **Building Community and Support for Open Science at Carnegie Mellon University** \\
-Coalition for Networked Information (CNI) Fall 2018 Membership Meeting, Washington DC, November 10 –11, 2018 https://doi.org/10.1184/R1/7455197.v1
+Coalition for Networked Information (CNI) Fall 2018 Membership Meeting, Washington DC, November 10 –11, 2018 [https://doi.org/10.1184/R1/7455197](https://doi.org/10.1184/R1/7455197)
 
 **CMU and Figshare – the journey toward an all-in-one repository** (panelist) \\
 Research Data Access & Preservation Summit (RDAP), Chicago, IL, March 21 –23, 2018

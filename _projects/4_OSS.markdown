@@ -3,10 +3,22 @@ layout: page
 title: Open Science Symposium
 description: An annual symposium on cool open science projects in life sciences.
 img: /assets/img/OpenScience_Logo_Red.png
-redirect: https://events.library.cmu.edu/oss2019/
 ---
 
-Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
+Initially supported by DSF Foundation in collaboration with Mellon College of Science, we launched Open Science Symposium in 2018 to build awareness and support for the adoption of open research practices, encourage innovative ideas about data sharing in the life sciences and related disciplines, and accelerate interdisciplinary collaborations. This annual event features talks and panel discussions from researchers, tool developers and publishers, and an interactive poster and demos session on research using open methods.
+
+OSS 2018 [website](https://events.mcs.cmu.edu/oss2018/) |
+[videos and slides](https://osf.io/54gue/)
+
+OSS 2019 [website](https://events.library.cmu.edu/oss2019/) |
+[videos and slides](https://osf.io/f6gkw/)
+
+OSS 2020 [website](https://events.library.cmu.edu/oss2020/) |
+[videos and slides](Open Science Framework repository) |
+[YouTube playlist](https://www.youtube.com/playlist?list=PLbkhiRA2P3qJ49fZF3mqsshvcseFTc4uj)
+
+
+<!-- Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
@@ -53,4 +65,4 @@ The code is simple. Just add a col class to your image, and another class specif
 <div class="img_row">
     <img class="col two left" src="/img/6.jpg"/>
     <img class="col one left" src="/img/11.jpg"/>
-</div>
+</div> -->
