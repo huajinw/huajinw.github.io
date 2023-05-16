@@ -15,6 +15,12 @@ profile:
 news: true
 social: true
 ---
+=======================
+
+*I am currently not maintaining my academic website as I am on leave from Carnegie Mellon, serving as the Director of Programs at the <a href="https://www.cos.io"> Center for Open Science</a>.*
+
+=======================
+
 
 I am a Senior Librarian at <a href="https://www.library.cmu.edu"> Carnegie Mellon University Libraries</a> and a Director for <a href="https://www.library.cmu.edu/datapub/open-science">Open Science & Data Collaborations Program</a>. I am passionate about helping the research community with data needs, fostering collaboration across disciplinary boundaries, facilitating scientific data reuse and reproducibility, and engaging various stake holders to build a healthy data ecosystem. My current research focus is on open science methodology and assessments, and on secondary reuse of biomedical data.
 
