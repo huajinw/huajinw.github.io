@@ -1,13 +1,13 @@
 .profile {
     img {
+        margin: 5px;
         box-shadow: 0 0 5px $grey-color;
         width: 100%;
     }
 }
 .address {
-    font-family: monospace;
-
-    p { margin: 0; }
+    font-family: arial;
+    p { margin: 0; text-align: center;}
 }
 
 .news {

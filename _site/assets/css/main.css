@@ -403,10 +403,10 @@ columns */ /* Responsive layout - makes the two columns stack on top of each oth
 .project .thumbnail a span p { font-size: 0.9rem; color: #eee; }
 .project .thumbnail a:hover span { display: block; }
 
-.profile img { box-shadow: 0 0 5px #828282; width: 100%; }
+.profile img { margin: 5px; box-shadow: 0 0 5px #828282; width: 100%; }
 
-.address { font-family: monospace; }
-.address p { margin: 0; }
+.address { font-family: arial; }
+.address p { margin: 0; text-align: center; }
 
 .news { border-top: 1px solid #e8e8e8; margin-top: 30px; padding-top: 20px; }
 .news h2 { font-weight: bold; margin-top: 0; margin-bottom: 10px; }

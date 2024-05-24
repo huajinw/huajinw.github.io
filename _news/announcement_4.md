@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-01-05
+date: 2022-08-01
 inline: true
 ---
 
-We are hiring a full-time Project Coordinator to support the Open Science & Data Collaborations program. Apply [here](https://cmu.wd5.myworkdayjobs.com/CMU/job/Pittsburgh-PA/Project-Coordinator--Open-Science---Data-Collaboration---University-Libraries_2017278)! 
+I am taking a research leave from Carnegie Mellon, serving as the Director of Programs at the [Center for Open Science](https://www.cos.io/about/news/cos-welcomes-huajin-wang-as-director-of-programs). I will not be maintaining my academic website until I return. 

@@ -22,9 +22,11 @@ Department of Microbiology, Shandong University
 
 ### Positions
 
-**Program Director**, Open Science & Data Collaborations, Carnegie Mellon University Libraries, Pittsburgh, PA (2019 -- present)
+**Library Track Faculty**, Carnegie Mellon University, Pittsburgh, PA (2017 -- present)
 
-**Liaison Librarian**, University Libraries, Carnegie Mellon University, Pittsburgh, PA (2017 -- present)
+**Director of Programs**, Center for Open Science, Charlottesville, VA (2022 -- 2024)
+
+**Director**, Open Science & Data Collaborations program, Carnegie Mellon University Libraries, Pittsburgh, PA (2019 -- 2022)
 
 **Adjunct Lecturer**, Department of Statistics, University of Pittsburgh, Pittsburgh, PA (Fall, 2017)
 
@@ -34,4 +36,4 @@ Department of Microbiology, Shandong University
 
 **Postdoctoral Fellow**, Department of Molecular Structure and Function, The Hospital for Sick Children, Toronto, Canada (2010)
 
-**Graduate Researcher**, Department of Cell Biology, University of Alberta Edmonton, Canada (2004 -- 2009)
+**Graduate Researcher**, Department of Cell Biology, University of Alberta, Edmonton, Canada (2004 -- 2009)

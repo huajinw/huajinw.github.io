@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2020-05-15 07:59:00-0400
+date: 2022-01-05
 inline: true
 ---
 
-[dataCoLAB consulting hours](https://cmu-lib.github.io/data-colab/consulting.html) continues virtually in Summer, every Wednesday 1-3pm. Look forward to seeing you there! :sparkles: :smile:
+We are hiring a full-time Project Coordinator to support the Open Science & Data Collaborations program. Apply [here](https://cmu.wd5.myworkdayjobs.com/CMU/job/Pittsburgh-PA/Project-Coordinator--Open-Science---Data-Collaboration---University-Libraries_2017278)! 
