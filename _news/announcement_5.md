@@ -4,4 +4,4 @@ date: 2024-05-01
 inline: true
 ---
 
-I'm back at Carnegie Mellon! :sparkles: :sparkling_heart: Almost everyday, I find myself amazed at the unique character that the CMU community has - passion, curiosity, determination, ambition, down to earth. I look forward to continuing to work with devoted colleagues and support our students and faculty on their journey to groundbreaking ideas and innovation.
+I'm back at Carnegie Mellon! :sparkles: :sparkling_heart: Can’t wait to indulge in this unique culture again and support the bold and innovative work on campus. Starting with the [Academic Cloud Lab](https://cloudlab.cmu.edu/)!  
