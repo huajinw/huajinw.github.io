@@ -6,6 +6,15 @@ permalink: /talks/
 
 ### Selected Conference Presentations
 
+**A new frontier of science: From the CMU Cloud Lab to an open ecosystem**\\
+FORCE11 Conference (August 2024). Zenodo. [https://doi.org/10.5281/zenodo.13207482](https://doi.org/10.5281/zenodo.13207482)
+
+**Driving culture change in research communities.** (Invited talk)\\
+Opening up: Interdisciplinary guidance for managing open ecosystems workshop (October 2023). [https://doi.org/10.1184/R1/25959511.v1](https://doi.org/10.1184/R1/25959511.v1)
+
+**AI for FAIR Data: Technical Solutions, Human Factor, and the Libraries’ Role** (Invited talk)\\
+FAIR for US workshop, March 15, 2022. [https://doi.org/10.1184/R1/19179377](https://doi.org/10.1184/R1/19179377)
+
 **An End-to-end Open Science and Data Collaborations Program**\\
 Coalition for Networked Information (CNI) Fall 2021 Membership Meeting. Virtual Meeting, December 7-9, 2021 [https://doi.org/10.1184/R1/17155721](https://doi.org/10.1184/R1/17155721)
 
@@ -26,6 +35,20 @@ Research Data Access & Preservation Summit (RDAP), Chicago, IL, March 21 –23, 
 
 
 ### Other Talks
+
+**Opening Influenza Research: Fostering a sustainable open science community**\\
+Collaborative Influenza Vaccine Innovation Centers (CIVICs) (2024)
+
+**COS Community Trainer Certification Program – Propagating an Open Culture in Influenza Research**\\
+Centers of Excellence for Influenza Research and Response (CEIRR) (2023)
+
+**Bringing Change to the Mainstream With Visibility and Values: Make It Normative**\\
+Center for Open Science 10 Year Anniversary Event.(2023)
+
+**Library support for text and data mining – A case study at Carnegie Mellon University**\\
+National Information Standards Organization (NISO) Virtual Conferences. (2022)
+
+**What data to preserve? –Making decisions about confocal microscopy data**Campus Research Computing Consortium (CaRCC) (2020)
 
 **Building Community and Support for Open Science at Carnegie Mellon University** \\
 National Institute of Health, Bethesda, MD (2018)
