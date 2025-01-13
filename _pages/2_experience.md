@@ -28,6 +28,8 @@ Department of Microbiology, Shandong University
 
 **Director**, Open Science & Data Collaborations program, Carnegie Mellon University Libraries, Pittsburgh, PA (2019 -- 2022)
 
+**Director**, Data Collaborations Lab, Carnegie Mellon University Libraries, Pittsburgh, PA (2018 -- 2022)
+
 **Adjunct Lecturer**, Department of Statistics, University of Pittsburgh, Pittsburgh, PA (Fall, 2017)
 
 **Special Faculty**, Department of Biological Sciences, Carnegie Mellon University, Pittsburgh, PA (2016 -- 2017)
