@@ -36,6 +36,9 @@ Research Data Access & Preservation Summit (RDAP), Chicago, IL, March 21 –23, 
 
 ### Other Talks
 
+**Open Science Program at Carnegie Mellon University** (Invited talk)\\
+King’s College London (2024)
+
 **Opening Influenza Research: Fostering a sustainable open science community**\\
 Collaborative Influenza Vaccine Innovation Centers (CIVICs) (2024)
 
@@ -48,7 +51,7 @@ Center for Open Science 10 Year Anniversary Event.(2023)
 **Library support for text and data mining – A case study at Carnegie Mellon University**\\
 National Information Standards Organization (NISO) Virtual Conferences. (2022)
 
-**What data to preserve? –Making decisions about confocal microscopy data**Campus Research Computing Consortium (CaRCC) (2020)
+**What data to preserve? –Making decisions about confocal microscopy data**\\Campus Research Computing Consortium (CaRCC) (2020)
 
 **Building Community and Support for Open Science at Carnegie Mellon University** \\
 National Institute of Health, Bethesda, MD (2018)
